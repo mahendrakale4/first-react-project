@@ -1,0 +1,7 @@
+// this is BABEL configuration file 
+
+// with options
+{
+    "plugins": [ ["transform-remove-console", 
+    { "exclude": [ "error", "warn"] }] ]
+}
